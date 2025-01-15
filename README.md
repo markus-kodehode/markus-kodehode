@@ -15,18 +15,12 @@
 </p>
 <br>
 
-<h3>Projects</h3>
+<h3>GitHub Stats</h3>
 <hr>
-<ul>
-  <li>
-    <b>[Portfolio page]</b> - A brief description of the project (e.g., "A weather app built with React and OpenWeather API").  
-    <a href="https://github.com/username/project-repo">Check it out!</a>
-  </li>
-  <li>
-    <b>[Another Project]</b> - Description here (e.g., "A landing page design inspired by gaming aesthetics").  
-    <a href="https://github.com/username/another-repo">Take a look!</a>
-  </li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markus-kodehode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markus-kodehode&theme=tokyonight" alt="Streak Stats" />
+</p>
 <br>
 
 <h3>What I'm gaming</h3>
