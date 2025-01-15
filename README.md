@@ -1,8 +1,9 @@
 ## Hi, welcome to my GitHub page ヾ(＠⌒ー⌒＠)ノ
 
+<div align="center">
 <p>My name's Markus, aspiring front-end developer and avid gamer from <b>Ålesund, Norway</b>.
 <br><br>
-  
+
 <h3>Tools I use</h3>
 <hr>
 <p>
@@ -15,7 +16,6 @@
 </p>
 <br>
 
-<div align="center">
 <h3>What I'm gaming</h3>
 <hr>
 
