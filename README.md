@@ -14,7 +14,10 @@
             <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 <br>
+
+<div align="center">
 <h3>What I'm gaming</h3>
 <hr>
 
 ![topson](https://steam-stat.vercel.app/api?profileName=kreygasm)
+</div>
