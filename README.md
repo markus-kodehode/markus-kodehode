@@ -1,7 +1,7 @@
 ## Hi, welcome to my GitHub page ヾ(＠⌒ー⌒＠)ノ
 
 <p>My name's Markus, aspiring front-end developer and avid gamer from <b>Ålesund, Norway</b>.
-
+<br>
 <h3>Stuff I code with</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,8 +11,7 @@
            <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
             <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-
+<br>
 <h3>What I'm gaming</h3>
 
 ![topson](https://steam-stat.vercel.app/api?profileName=kreygasm)
