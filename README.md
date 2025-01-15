@@ -15,13 +15,6 @@
 </p>
 <br>
 
-<h3>GitHub Stats</h3>
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markus-kodehode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markus-kodehode&theme=tokyonight" alt="Streak Stats" />
-</p>
-<br>
 
 <h3>What I'm gaming</h3>
 <hr>
