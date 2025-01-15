@@ -1,4 +1,4 @@
-## Welcome to my GitHub page 😉
+## Hi, welcome to my GitHub page ヾ(＠⌒ー⌒＠)ノ
 
 <!--
 **markus-kodehode/markus-kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
