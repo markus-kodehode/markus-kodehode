@@ -4,6 +4,7 @@
 <br><br>
   
 <h3>Tools I use</h3>
+<hr>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
@@ -14,5 +15,5 @@
 </p>
 <br>
 <h3>What I'm gaming</h3>
-
+<hr>
 ![topson](https://steam-stat.vercel.app/api?profileName=kreygasm)
