@@ -1,6 +1,6 @@
 ## Hi, welcome to my GitHub page ヾ(＠⌒ー⌒＠)ノ
 
-<p>My name's Markus, aspiring front-end developer from <b>Ålesund, Norway</b>.
+<p>My name's Markus, aspiring front-end developer and avid gamer from <b>Ålesund, Norway</b>.
 
 <h3>Stuff I code with</h3>
 <p>
