@@ -15,6 +15,19 @@
 </p>
 <br>
 
+<h3>Projects</h3>
+<hr>
+<ul>
+  <li>
+    <b>[Portfolio page]</b> - A brief description of the project (e.g., "A weather app built with React and OpenWeather API").  
+    <a href="https://github.com/username/project-repo">Check it out!</a>
+  </li>
+  <li>
+    <b>[Another Project]</b> - Description here (e.g., "A landing page design inspired by gaming aesthetics").  
+    <a href="https://github.com/username/another-repo">Take a look!</a>
+  </li>
+</ul>
+
 <h3>What I'm gaming</h3>
 <hr>
 
