@@ -2,8 +2,8 @@
 
 <p>My name's Markus, aspiring front-end developer and avid gamer from <b>Ålesund, Norway</b>.
 
-<h3 align="center">Stuff I code with</h3>
-<p align="center">
+<h3>Stuff I code with</h3>
+<p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
