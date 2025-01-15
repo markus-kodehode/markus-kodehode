@@ -12,7 +12,7 @@
            <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
             <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-<br><br>
+<br>
 <h3>What I'm gaming</h3>
 
 ![topson](https://steam-stat.vercel.app/api?profileName=kreygasm)
