@@ -2,7 +2,6 @@
 <h1> Hi, welcome to my GitHub page ヾ(＠⌒ー⌒＠)ノ</h1>
 <p>My name's Markus, aspiring front-end developer and avid gamer from <b>Ålesund, Norway</b>.
 <br><br>
-<hr>
 
 <h3>Tools I use</h3>
 <hr>
