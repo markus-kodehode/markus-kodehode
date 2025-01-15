@@ -27,6 +27,7 @@
     <a href="https://github.com/username/another-repo">Take a look!</a>
   </li>
 </ul>
+<br>
 
 <h3>What I'm gaming</h3>
 <hr>
